@@ -16,7 +16,6 @@ p {
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: Regular 400;
-  width: 1000px;
   size: 20px;
   margin-left: 20px;
   margin-right: 20px;
@@ -29,7 +28,7 @@ h1 {
   font-family: "Teko", sans-serif;
   font-weight: 400;
   font-style: SemiBold 600;
-  width: 1000px;
+  
   size: 46px;
   margin-left: 20px;
   margin-right: 20px;
@@ -45,7 +44,7 @@ dl {
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: Regular 400;
-  width: 1000px;
+  
   size: 36px;
   margin-left: 20px;
   margin-right: 20px;
@@ -59,7 +58,7 @@ h3 {
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: Regular 400;
-  width: 1000px;
+ 
   size: 28px;
   margin-left: 20px;
   margin-right: 20px;
@@ -83,7 +82,7 @@ dl {
 }
 
 img {
-  width: 1000px;
+ 
   height: auto;
   display: block;
   margin-left: 20px;
@@ -96,7 +95,7 @@ dd {
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: Regular 400;
-  width: 1000px;
+  
   size: 20px;
   margin-left: 20px;
   margin-right: 20px;
