@@ -1,0 +1,105 @@
+/*************** Reset *********************/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+p {
+  font-family: "Anaheim", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: Regular 400;
+  width: 1000px;
+  size: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 14px;
+  line-height: 1.5;
+}
+
+h1 {
+  font-family: "Teko", sans-serif;
+  font-weight: 400;
+  font-style: SemiBold 600;
+  width: 1000px;
+  size: 46px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 14px;
+  line-height: 1.5;
+}
+
+h2,
+dl {
+  color: #1019a1;
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: Regular 400;
+  width: 1000px;
+  size: 36px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 14px;
+  line-height: 1.5;
+}
+
+h3 {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: Regular 400;
+  width: 1000px;
+  size: 28px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 14px;
+  line-height: 1.5;
+}
+
+.big-font {
+  font-size: 46px;
+}
+
+dl {
+  border: 3px;
+  padding: 10px;
+  width: 200px;
+  border-radius: 5px;
+  background: #d8d3c7;
+  padding: 10px;
+  box-shadow: 0px 4px 4px #1f1b1b40;
+}
+
+img {
+  width: 1000px;
+  height: auto;
+  display: block;
+  margin-left: 20px;
+  margin-right: 20px;
+  border-radius: 10px;
+}
+
+dd {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: Regular 400;
+  width: 1000px;
+  size: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  line-height: 1.5;
+}
